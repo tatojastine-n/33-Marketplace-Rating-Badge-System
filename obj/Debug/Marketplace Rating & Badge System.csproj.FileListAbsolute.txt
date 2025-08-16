@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\Marketplace Rating & Badge System\bin\Debug\Marketplace Rating & Badge System.exe.config
+C:\Users\HP\source\repos\Marketplace Rating & Badge System\bin\Debug\Marketplace Rating & Badge System.exe
+C:\Users\HP\source\repos\Marketplace Rating & Badge System\bin\Debug\Marketplace Rating & Badge System.pdb
+C:\Users\HP\source\repos\Marketplace Rating & Badge System\obj\Debug\Marketplace Rating & Badge System.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Marketplace Rating & Badge System\obj\Debug\Marketplace Rating & Badge System.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Marketplace Rating & Badge System\obj\Debug\Marketplace Rating & Badge System.exe
+C:\Users\HP\source\repos\Marketplace Rating & Badge System\obj\Debug\Marketplace Rating & Badge System.pdb
